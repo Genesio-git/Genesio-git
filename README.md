@@ -32,14 +32,6 @@ Focado em construir aplicações web funcionais, APIs REST e soluções de autom
 
 ---
 
-## 📈 Linguagens mais usadas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genesio-git&layout=compact&theme=dark" alt="Top Languages"/>
-</p>
-
----
-
 ## 📬 Vamos nos conectar
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:genesioftj04@gmail.com)
